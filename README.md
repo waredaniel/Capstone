@@ -8,3 +8,4 @@
 * 12:30 Setting up graph editor continued
 * 2:30 Working on resolving bug re:unity editor version
 * 4:09 Restarting project due to unresolved editor issue
+* 4:48 EOD- recreated most of project in new working file
