@@ -7,3 +7,4 @@
 *  10:30 Creating node graph editor
 * 12:30 Setting up graph editor continued
 * 2:30 Working on resolving bug re:unity editor version
+* 4:09 Restarting project due to unresolved editor issue
