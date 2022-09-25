@@ -14,3 +14,4 @@
 
 * 8:30 Continue reconstructing node graph editor in new project file
 * 10:30 Game art asset planning
+* 2:43 Hunted and fixed bug regarding Unity.Editor guid display issue
