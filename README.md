@@ -9,3 +9,7 @@
 * 2:30 Working on resolving bug re:unity editor version
 * 4:09 Restarting project due to unresolved editor issue
 * 4:48 EOD- recreated most of project in new working file
+
+## Sunday, 9/25
+
+* Continue reconstructing node graph editor in new project file
