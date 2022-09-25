@@ -12,4 +12,5 @@
 
 ## Sunday, 9/25
 
-* Continue reconstructing node graph editor in new project file
+* 8:30 Continue reconstructing node graph editor in new project file
+* 10:30 Game art asset planning
