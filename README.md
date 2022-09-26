@@ -16,3 +16,4 @@
 * 10:30 Game art asset planning
 * 2:43 Hunted and fixed bug regarding Unity.Editor guid display issue
 * 4:29 WIP Connecting room nodes in graph editor with GUI lines
+* 5:40 GUI lines drawing correctly between room nodes
