@@ -18,3 +18,7 @@
 * 4:29 WIP Connecting room nodes in graph editor with GUI lines
 * 5:40 GUI lines drawing correctly between room nodes
 * 7:37 EOD Finished making rules for connecting room nodes together
+
+## Friday, 9/30
+
+* 8:10 Continue work on dungeon construction
