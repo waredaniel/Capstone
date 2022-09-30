@@ -23,3 +23,4 @@
 
 * 8:10 Continue work on dungeon construction
 * 10:28 Explore setting up collider layers for room
+* 12:07 Lunch- finished setting up corridors NS and EW
