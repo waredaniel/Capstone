@@ -22,3 +22,4 @@
 ## Friday, 9/30
 
 * 8:10 Continue work on dungeon construction
+* 10:28 Explore setting up collider layers for room
