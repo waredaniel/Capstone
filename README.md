@@ -25,3 +25,4 @@
 * 10:28 Explore setting up collider layers for room
 * 12:07 Lunch- finished setting up corridors NS and EW
 * 2:11 Modifications to room for four paths out + hallways
+* 5:04 Continuing work with room generation algorithm
