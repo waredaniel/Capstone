@@ -26,3 +26,6 @@
 * 12:07 Lunch- finished setting up corridors NS and EW
 * 2:11 Modifications to room for four paths out + hallways
 * 5:04 Continuing work with room generation algorithm
+
+## Sunday 10/2 
+* 9:10 Creating room scriptable objects for generator
