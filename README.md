@@ -38,3 +38,4 @@
 * 10:36 WIP room generation scripting
 * 12:09 WIP Break for Lunch
 * 2:23 Searching for problem in script that is preventing corridors from appearing
+* 4:12 Troubleshooting rooms appearing in overlapping places preventing level compilation
