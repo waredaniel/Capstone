@@ -36,3 +36,4 @@
 ## Monday 10/3
 * 8:15 Continue work on room generation scripting
 * 10:36 WIP room generation scripting
+* 12:09 WIP Break for Lunch
