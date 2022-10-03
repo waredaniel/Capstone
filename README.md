@@ -37,3 +37,4 @@
 * 8:15 Continue work on room generation scripting
 * 10:36 WIP room generation scripting
 * 12:09 WIP Break for Lunch
+* 2:23 Searching for problem in script that is preventing corridors from appearing
