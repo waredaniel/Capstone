@@ -32,3 +32,6 @@
 * 11:00 Continue working on room generator templates
 * 12:05 Constructing game manager
 * 1:58 Creating practice shader graph
+
+## Monday 10/3
+* 8:15 Continue work on room generation scripting
