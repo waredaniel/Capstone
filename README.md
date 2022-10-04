@@ -39,3 +39,6 @@
 * 12:09 WIP Break for Lunch
 * 2:23 Searching for problem in script that is preventing corridors from appearing
 * 4:12 Troubleshooting rooms appearing in overlapping places preventing level compilation
+
+## Tuesday 10/4
+* 7:29 Continue troubleshooting overlapping rooms issue
