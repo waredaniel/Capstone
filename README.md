@@ -48,3 +48,4 @@
 * 1:37 Continuing player scripting
 * 2:22 Player Sprite Art
 * 3:33 Player Sprite Sheet formatting
+* 4:26 Animator Controller Setup
