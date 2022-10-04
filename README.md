@@ -43,3 +43,4 @@
 ## Tuesday 10/4
 * 7:29 Continue troubleshooting overlapping rooms issue
 * 9:27 Begin work on player component
+* 10:24 Fix scripting to close off unused doorways in map
