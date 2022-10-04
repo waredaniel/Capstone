@@ -49,3 +49,4 @@
 * 2:22 Player Sprite Art
 * 3:33 Player Sprite Sheet formatting
 * 4:26 Animator Controller Setup
+* 4:46 Character Animation Setup -Break
