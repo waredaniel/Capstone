@@ -46,3 +46,4 @@
 * 10:24 Fix scripting to close off unused doorways in map
 * 11:27 Building player scripts (health, colliders)
 * 1:37 Continuing player scripting
+* 2:22 Player Sprite Art
