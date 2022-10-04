@@ -42,3 +42,4 @@
 
 ## Tuesday 10/4
 * 7:29 Continue troubleshooting overlapping rooms issue
+* 9:27 Begin work on player component
