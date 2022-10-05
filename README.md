@@ -55,3 +55,4 @@
 
 ## Wednesday 10/5
 * 7:49 Begin work on player instantiation
+* 9:27 Camera scripting for cinemachine
