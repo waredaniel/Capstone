@@ -51,3 +51,4 @@
 * 4:26 Animator Controller Setup
 * 4:46 Character Animation Setup -Break
 * 9:05 Continue character animation setup
+* 11:09 Finish character animations setup
