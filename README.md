@@ -58,3 +58,4 @@
 * 9:27 Camera scripting for cinemachine
 * 11:10 Aiming mechanics
 * 1:01 Continuing work on aiming scripting
+* 2:00 Begin player movement scripting
