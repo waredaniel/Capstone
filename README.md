@@ -52,3 +52,6 @@
 * 4:46 Character Animation Setup -Break
 * 9:05 Continue character animation setup
 * 11:09 Finish character animations setup
+
+## Wednesday 10/5
+* 7:49 Begin work on player instantiation
