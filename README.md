@@ -50,3 +50,4 @@
 * 3:33 Player Sprite Sheet formatting
 * 4:26 Animator Controller Setup
 * 4:46 Character Animation Setup -Break
+* 9:05 Continue character animation setup
