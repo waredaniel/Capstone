@@ -60,3 +60,4 @@
 * 1:01 Continuing work on aiming scripting
 * 2:00 Begin player movement scripting
 * 3:26 Roll mechanic
+* 5:18 Finished roll mechanic, adjust cinemachine target group for cursor
