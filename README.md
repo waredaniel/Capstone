@@ -62,3 +62,6 @@
 * 3:26 Roll mechanic
 * 5:18 Finished roll mechanic, adjust cinemachine target group for cursor
 * 7:20 Object pool implementation
+
+## Thursday 10/6
+* 7:40 Weapon scripting 
