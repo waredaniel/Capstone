@@ -1,5 +1,25 @@
-# Capstone
+# Capstone Project
 
+## By Daniel Ware
+
+## Technologies Used
+* Unity Game Engine
+* Aseprite
+
+## Description
+This is a 2D topdown game prototype featuring a dungeon generation feature and a functional character controller. The player can explore different dungeon layouts based on prechosen dungeon node graphs designed in the graph editor.
+
+## Setup/Installation Requirements
+
+* This project needs the Unity game engine to be downloaded. This project was created with version 2021.1.17f1 and has not been tested with any other editor versions.
+* The project files are contained in a zip file here: https://drive.google.com/drive/folders/1WgWbqlhQwHG5NvLJcrG5t9O9MTAHutpU?usp=sharing
+* Download the folder: Capstone and unzip to folder of your choice
+* Open the Unity Hub Setup and open the capstone folder
+* In Unity, go to File> Build and Run to play game or simply launch "Build 3" to play the demo.
+
+
+------------------
+## Hour Log
 ## Friday, 9/16
 
 *  8:10 Create new Unity Project and install packages
